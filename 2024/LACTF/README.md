@@ -4,9 +4,12 @@
 
 
 
-In the end, I finished 284th and scored 50 points.  
+In the end, I finished 505th and scored 1059 points.  
 
 ## misc
 
-- [rev/shattered-memories](./shattered-memories/README.md) - 0 pts
-- [crypto/valentines-day](./valentines-day/README.md) - 0 pts
+- [rev/shattered-memories](./shattered-memories/README.md) - 115 pts
+
+## Crypto
+
+- [crypto/valentines-day](./valentines-day/README.md) - 195 pts
